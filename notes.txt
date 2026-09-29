@@ -1,1 +1,1 @@
-Git is very beneficial
+Git is a free open source distributed version control system designed to track changes in source code.

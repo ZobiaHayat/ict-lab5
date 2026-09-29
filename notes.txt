@@ -1,1 +1,2 @@
 Git is a free open source distributed version control system designed to track changes in source code.
+Git is very beneficial.
